@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## FlipFlap HW
 
 ### Overview
@@ -137,3 +138,7 @@ To keep FlipFlap short and uncomplicated, we can make modules (like TsvBuddy and
 Using mixins cleanly separates our code by keeping the parsing logic away from other code needed by applications to handle the data. And we can do this all without inheritance.
 
 Feel free to ask more questions on our Canvas board, and we will of course discuss this in class!
+=======
+# FlipFlap_HW
+HW for Flip Flap
+>>>>>>> 392300c7d5ed27c739cf1571d08aad704e11d67d

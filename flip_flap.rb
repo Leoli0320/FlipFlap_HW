@@ -2,6 +2,7 @@ require_relative 'tsv_buddy'
 require_relative 'yaml_buddy'
 # Converts tabular data between storage formats
 class FlipFlap
+  puts 'hello flapflop'
   # Do NOT create an initialize method
   include YamlBuddy
   include TsvBuddy
